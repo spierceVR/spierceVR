@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Solomon 👋</h1>
-<h3 align="center">A cs student/full-stack developer. I'll be a freshman at UT Dallas starting in Fall 2021</h3>
+###Hi, I'm Solomon 👋
+
+##A cs student/full-stack developer. I'll be a freshman at UT Dallas starting in Fall 2021
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiercevr&label=Profile%20views&color=0e75b6&style=flat" alt="spiercevr" /> </p>
 
