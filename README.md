@@ -6,7 +6,7 @@
 
 - 🔨 I’m currently working on a [2D raycasting project](https://solomonpierce.dev/raycast2D)
 
-- 📚 I’m currently learning **Node.js, Tensorflow and Data Structures and Algorithms**
+- 📚 I’m currently learning **the PERN stack, and Data Structures & Algorithms**
 
 - 🔭 Also check out my [personal website](https://solomonpierce.dev/)
 
