@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiercevr&label=Profile%20views&color=0e75b6&style=flat" alt="spiercevr" /> </p>
 
-- 🔨 I’m  working on a [2D raycasting project](https://solomonpierce.dev/raycast2D)
+- 🔨 I’m  working on a [raycasting project](https://solomonpierce.dev/raycast2D)
 
 - 📚 I’m learning **[Svelte](https://svelte.dev), and Data Structures & Algorithms**
 
