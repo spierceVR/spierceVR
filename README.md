@@ -1,12 +1,10 @@
 ### Hi, I'm Solomon 👋
 
-## ...a cs student / full-stack developer. I'm a freshman at UT Dallas
+## ...a full-stack developer / cs student at UT Dallas
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiercevr&label=Profile%20views&color=0e75b6&style=flat" alt="spiercevr" /> </p>
 
 - 🔨 I’m  working on a [raycasting project](https://solomonpierce.dev/raycast2D)
-
-- 📚 I’m learning **[Svelte](https://svelte.dev), and Data Structures & Algorithms**
 
 - 🔭 Also check out my [personal website](https://solomonpierce.dev/)
 
